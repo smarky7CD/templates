@@ -1,0 +1,21 @@
+#+TITLE:
+#+AUTHOR: Sam A. Markelon
+#+EMAIL: markelon@protonmail.com
+#+DATE:
+#+TAGS: 
+
+* Paper Information
+
+** Title
+
+** Authors
+
+** Link
+
+** Citation
+
+* Reason for Reading
+
+* Content Notes
+
+* Comments

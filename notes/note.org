@@ -1,4 +1,4 @@
-#+TITLE Meeting with 
+#+TITLE: 
 #+AUTHOR: Sam A. Markelon
 #+EMAIL: markelon@protonmail.com
 #+DATE: 
